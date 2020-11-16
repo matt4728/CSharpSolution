@@ -1,0 +1,7 @@
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\bin\Debug\MakeBookTicketsDB.exe.config
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\bin\Debug\MakeBookTicketsDB.exe
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\bin\Debug\MakeBookTicketsDB.pdb
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\obj\Debug\MakeBookTicketsDB.csprojAssemblyReference.cache
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\obj\Debug\MakeBookTicketsDB.csproj.CoreCompileInputs.cache
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\obj\Debug\MakeBookTicketsDB.exe
+C:\Users\vios\Desktop\국제대회 평가경기\지급파일\제2과제\내 답\MakeBookTicketsDB\MakeBookTicketsDB\obj\Debug\MakeBookTicketsDB.pdb
